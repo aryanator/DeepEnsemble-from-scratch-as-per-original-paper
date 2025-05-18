@@ -1,4 +1,3 @@
-%%writefile README.md
 # Deep Ensembles for Uncertainty Estimation in Regression
 
 This implementation follows the paper:
